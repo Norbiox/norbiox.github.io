@@ -1,6 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+## Hi!
 
-layout: home
----
+A day will come, when this page will shine and overflow with valueable information and stuff... it will come...

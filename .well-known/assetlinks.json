@@ -1,0 +1,15 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "pl.norbertchmiel.spiewnik_pielgrzyma",
+        "sha256_cert_fingerprints": [
+          "3E:0F:C1:F3:AE:06:01:3E:EA:FA:3A:C0:5F:41:88:7A:55:ED:C1:CA:05:F5:9D:2E:CE:4C:03:93:07:40:A1:FA",
+          "90:C4:FF:90:97:1C:05:1D:80:7B:BC:E4:46:7A:1B:7E:56:DD:45:6D:7C:1B:84:A7:75:71:16:A1:4E:D8:46:90"
+        ]
+      }
+    }
+]
